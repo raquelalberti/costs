@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolvimento Web",
+      "budget": "30000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Contratar desenvolvedor",
+          "cost": "5000",
+          "description": "Contratação para desenvolvimento de sistema web",
+          "id": "19b7b300-6b92-4159-bd11-2af729889bf5"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
